@@ -1,1 +1,3 @@
-# Conway-s-Game-of-Life-Clone
+# Conways-Game-of-Life-Clone
+
+This game is my take on the classic game known as Conway's Game of Life. In this game, there are only a few essential rules: any living cell with fewer than two adjacent living cells dies, any living cell with two or three adjacent living cells continues living, and any cell with more than three neighbors dies. I was first introduced to this game several years ago through a series of YouTube videos, and the concept of a game with such primitive rules yet capable of producing fascinating patterns fascinated me to an extreme degree, so I wanted to attempt to replicate it.
